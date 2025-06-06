@@ -1,7 +1,7 @@
 # Daniel Felipe Atara García
 
 🎓 Estudiante de Ingeniería Electrónica | ⚙️ Apasionado por la Automatización, Energías Renovables y Programación  
-📍 Funza, Cundinamarca, Colombia | 📧 [tucorreo@ejemplo.com] | 🌐 [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+📍 Funza, Cundinamarca, Colombia | 📧 [danielataragarcia@gmail.com] | 🌐 [linkedin.com/in/daniatt24](https://linkedin.com/in/daniatt24)
 
 ---
 
@@ -50,6 +50,6 @@ Aplicación de escritorio para gestión de usuarios y equipos con autenticación
 
 ## 📫 Contacto
 
-- **Email:** tucorreo@ejemplo.com  
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)
+- **Email:** danielataragarcia@gmail.com  
+- **LinkedIn:** [linkedin.com/in/daniatt24](https://linkedin.com/in/daniatt24)  
+- **GitHub:** [github.com/DanielAtaraBMO](https://github.com/DanielAtaraBMO)
